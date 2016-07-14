@@ -12,6 +12,7 @@ page '/*.txt', layout: false
 activate :directory_indexes
 activate :automatic_image_sizes
 activate :automatic_alt_tags
+set :site_url, "https://team1432.github.io"
 #activate :gzip
 activate :syntax, :css_class => 'syntax-highlight', :line_numbers => false
 ::Rack::Mime::MIME_TYPES[''] = 'text/html'
