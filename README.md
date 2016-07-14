@@ -11,6 +11,7 @@
 
 1. Create a [**GitHub account**](https://github.com/)
 2. Ask me ([@calebeby](https://github.com/calebeby)) to give you write access to the repository
+3. Go to **[github.com/team1432](https://github.com/team1432/)** and click on accept inivitation at the top right.
 2. Go to **[Prose.io](http://prose.io)** and click on the **Authorize on Github** button
 
   ![Authorize](https://github.com/team1432/team1432.github.io/raw/source/source/images/README/authorize.png)
