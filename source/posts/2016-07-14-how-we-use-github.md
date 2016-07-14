@@ -13,4 +13,4 @@ READMORE
 GitHub is free for [open source](https://opensource.com/resources/what-open-source) projects, which is how we use it.
 
 ## Open Source
-Anyone can view our robot code
+[Anyone can view our robot code online](https://github.com/team1432/FRC-2016), even without an account. We chose open source because we want people to be able to contribute to and learn from our code. GitHub is the mos
