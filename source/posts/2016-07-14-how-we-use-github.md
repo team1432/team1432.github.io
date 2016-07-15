@@ -15,4 +15,7 @@ READMORE
 GitHub is free for [open source](https://opensource.com/resources/what-open-source) projects, which is how we use it.
 
 ## Open Source
-[Anyone can view our robot code online](https://github.com/team1432/FRC-2016), even without an account. We chose open source because we want people to be able to contribute to and learn from our code. GitHub is very commonly used in the industry
+[Anyone can view our robot code online](https://github.com/team1432/FRC-2016), even without an account. We chose open source because we want people to be able to contribute to and learn from our code.
+
+## Branches
+In Git, branches are copies of the code, each with some changes from the `master` branch. Branches are often created for new features, and once the feature is complete, the feature branch is merged with the `master` branch.
