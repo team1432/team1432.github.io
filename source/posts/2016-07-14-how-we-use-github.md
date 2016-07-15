@@ -19,3 +19,6 @@ GitHub is free for [open source](https://opensource.com/resources/what-open-sour
 
 ## Branches
 In Git, branches are copies of the code, each with some changes from the `master` branch. Branches are often created for new features, and once the feature is complete, the feature branch is merged with the `master` branch. Although we haven't used branches for the 2016 robot code, we hope to use them more next year because it reduces the likelihood of something breaking. Branches are very useful with larger groups, because that way people can be working on different features without messing up each other's code.
+
+## Our Code
+You can see our 2016 FRC Code [here](https://github.com/team1432/FRC-2016/tree/master/src/org/usfirst/frc/team1432/robot). Our 2015 Bunnybots code [is availible on GitHub](https://github.com/team1432/bunnybots-2015), too.
