@@ -9,11 +9,6 @@ title: >-
   Why is picking something up off the floor, or stacking totes an important
   skill to learn.
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 [video](https://www.facebook.com/WTSGV/videos/vb.1001867729894927/1039898272758539/?type=2&theater "Bale stacker")
 
 
