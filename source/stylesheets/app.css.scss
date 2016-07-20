@@ -122,12 +122,19 @@ pre > code{
     margin-top: 30px;
     margin-bottom: 30px;
   }
+
   img {
     max-width: 100%;
   }
+
   time {
     margin-left: 10px;
     @extend %chip;
+  }
+
+  p {
+    line-height: 28px;
+    letter-spacing: 0.7px;
   }
 }
 
