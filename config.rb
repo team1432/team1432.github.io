@@ -56,7 +56,7 @@ class CustomMarkdown < Redcarpet::Render::HTML
   end
   def custom_markdown(document, renderer)
     document.gsub!(/{{site\.baseurl}}\/source/, '')
-    document.gsub!(/^([\s\S]+)READMORE/) { "<div class='summary'>#{$1.to_s}</div>\nREADMORE\n"}
+    document.gsub!(/^([\s\S]+)READMORE/) { "<p class='summary'>#{$1.to_s}</p>\nREADMORE\n"}
   end
   include Rouge::Plugins::Redcarpet
 end
