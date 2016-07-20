@@ -1,5 +1,5 @@
 - baseurl = config[:site_url]
-- canonical_link = baseurl + current_page.url
+- canonical_link = current_page.url
 = wrap_layout :layout do
   - rfc_date = DateTime.parse(current_article.date.to_s).rfc3339.to_s
   - clean_date = current_article.date.strftime("%B %e, %Y")
