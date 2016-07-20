@@ -12,6 +12,8 @@ test:
   - apt-get install -y nodejs
   - bundle install --path vendor
   - bundle exec middleman build --clean --build-dir=public
+  except:
+    - source
 
 pages:
   script:
