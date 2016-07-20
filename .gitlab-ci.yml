@@ -11,7 +11,7 @@ test:
   - apt-get update -yqqq
   - apt-get install -y nodejs
   - bundle install --path vendor
-  - bundle exec middleman build
+  - bundle exec middleman build --clean --build-dir=public
   except:
     - master
 
@@ -20,9 +20,9 @@ pages:
   - apt-get update -yqqq
   - apt-get install -y nodejs
   - bundle install --path vendor
-  - bundle exec middleman build
+  - bundle exec middleman build --clean --build-dir=public
   artifacts:
     paths:
     - public
   only:
-  - master
+  - source
