@@ -21,5 +21,7 @@ gem 'middleman-autoprefixer'
 gem 'nokogiri'
 gem 'therubyracer'
 
+gem "turbolinks", require: false
+
 # For feed.xml.builder
 gem "builder"
