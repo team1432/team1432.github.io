@@ -10,11 +10,10 @@ test:
   script:
     - apt-get update -yqqq
     - apt-get install -y jpegoptim libjpeg-progs optipng aspell aspell-en
-    - chcp 65001
     - bash spelling.sh
     - bundle install --path vendor
     - find source -iname '*.jpg' -print0 | xargs -0 jpegoptim -m50
-    - find source -iname '*.png' -print0 | xargs -0 optipng -quiet -fix
+    - find source -iname '*.png' -print0 | xargs -0 optipng -fix
     - bundle exec middleman build --clean --build-dir=public
   except:
     - source
