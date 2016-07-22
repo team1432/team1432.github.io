@@ -26,8 +26,8 @@ summary: >
 - [YouTube Release Video](https://www.youtube.com/watch?v=ahPHh8D42fc)
 - [Chief Delphi](http://www.chiefdelphi.com/media/photos/43187)
 
-## Nazaré by [Code Orange](http://teamcodeorange.com/)
-![Nazaré](https://i.imgur.com/q8lghR5h.jpg)
+## Nazare by [Code Orange](http://teamcodeorange.com/)
+![Nazare](https://i.imgur.com/q8lghR5h.jpg)
 
 - [The Blue Alliance Scoring Information](https://www.thebluealliance.com/team/3476)
 - [YouTube](https://www.youtube.com/watch?v=_a5nIKnUZNc)

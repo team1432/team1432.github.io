@@ -5,7 +5,6 @@ for file in $(find ./source/posts/ -name '*.md'); do
     if ! grep -Fxqi "$line" spelling.txt; then
       spelling_errors="$spelling_errors$line\n"
     fi
-    echo $spelling_errors
   done <<< "$errors"
   if [[ "$spelling_errors" != "" ]]; then
     echo "spelling errors in "$file
