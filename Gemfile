@@ -20,7 +20,7 @@ gem "middleman-minify-html"
 gem 'middleman-autoprefixer'
 gem 'nokogiri'
 gem 'therubyracer'
-
+gem 'rake'
 gem "turbolinks", require: false
 
 # For feed.xml.builder
