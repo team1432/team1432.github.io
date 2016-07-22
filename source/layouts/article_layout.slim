@@ -11,22 +11,23 @@
       h1[itemprop="name"] = current_article.title
       = author_tags
       time[pubdate itemprop="datePublished" datetime=rfc_date content=rfc_date] = clean_date
+    p.summary = current_article.data.summary
     = yield
 
   #disqus_thread
   script
     |var disqus_config = function () {
-    |  this.page.url = '#{baseurl + canonical_link}';
-    |  this.page.identifier = '#{canonical_link}';
+    |this.page.url = '#{baseurl + canonical_link}';
+    |this.page.identifier = '#{canonical_link}';
     |};
-    |
     |(function() {
-    |  var d = document, s = d.createElement('script');
-    |  s.src = '//team1432.disqus.com/embed.js';
-    |  s.setAttribute('data-timestamp', +new Date());
-    |  (d.head || d.body).appendChild(s);
+    |var d = document, s = d.createElement('script');
+    |s.src = '//team1432.disqus.com/embed.js';
+    |s.setAttribute('data-timestamp', +new Date());
+    |s.setAttribute('async', 'true');
+    |(d.head || d.body).appendChild(s);
     |})();
   noscript
     | Please enable JavaScript to view the
     a href="https://disqus.com/?ref_noscript" rel="nofollow"
-    | comments powered by Disqus.
+    | comments.

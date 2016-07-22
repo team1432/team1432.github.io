@@ -2,8 +2,9 @@
 author: Alan Lohkamp
 published: false
 title: T-shirts Through the Years
+summary: >
+  The t-shirts, games, and robots from every year the Metal Beavers competed.
 ---
-The t-shirts, games, and robots from every year the Metal Beavers competed.
 
 READMORE
 

@@ -55,30 +55,25 @@ That's it!
 ## Publising a Post (Making it visible on <http://team1432.github.io/blog>)
 
 1. Go to **[Prose.io](http://prose.io)** and click on **team1432.github.io**
-2. Click on the post you would like to publish
+2. Click on the post you would like to publish.
 3. Re-read the post content.
-4. Add a post summary at the beginning of the post, and then type `READMORE` below it.
-
-  > **NOTE:** `READMORE` must be capitalized.
-  
 4. Check the post information by clicking on the metadata button on the right:
 
   ![Metadata Button](https://github.com/team1432/team1432.github.io/raw/source/source/images/README/metadata.png)
   
   Make sure that the date, author, and tags are correct.
 
+4. Add a post **summary** to the metadata.
+
 5. Go back to edit mode
 
   ![Edit Button](https://github.com/team1432/team1432.github.io/raw/source/source/images/README/edit.png)
   
-6. Click on `Unpublished` to publish
-
-  ![Publish Button](https://github.com/team1432/team1432.github.io/raw/source/source/images/README/publish.png)
-
-5. Click on the **save** button on the right:
+6. Click on the **save** button on the right:
 
   ![Save Button](https://github.com/team1432/team1432.github.io/raw/source/source/images/README/save.png)
 
-6. Click **Commit**
-7. Go to **[Travis CI](https://travis-ci.org/team1432/team1432.github.io)**
-8. Wait until it goes **green** or **red**. If it goes green, it passed. If it goes red, it means there was an error. Scroll through the log to try to figure out what went wrong. It **will fail** if there are spelling errors. If you are *sure* that the word is spelled correctly, you can add it to the list on [Prose.io](http://prose.io/#team1432/team1432.github.io/edit/source/spelling.txt)
+7. Click **Commit**
+8. Go to **[Travis CI](https://travis-ci.org/team1432/team1432.github.io)**
+9. Wait until it goes **green** or **red**. If it goes green, it passed. If it goes red, it means there was an error. Scroll through the log to try to figure out what went wrong. It **will fail** if there are spelling errors. If you are *sure* that the word is spelled correctly, you can add it to the list on [Prose.io](http://prose.io/#team1432/team1432.github.io/edit/source/spelling.txt)
+10. Tell me ([@calebeby](https://github.com/calebeby)) to proofread and publish it.

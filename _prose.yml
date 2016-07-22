@@ -30,3 +30,6 @@ prose:
           options:
             - name: 'Tech'
               value: 'Tech'
+      - name: "summary"
+        element: 'textarea'
+        label: "Summary"

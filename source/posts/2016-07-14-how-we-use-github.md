@@ -2,8 +2,9 @@
 author: Caleb Eby
 published: true
 title: How We Use GitHub
+summary: >
+  How we use the code hosting site GitHub, and how we plan to improve how we use it in the upcoming year.
 ---
-How we use the code hosting site GitHub, and how we plan to improve how we use it in the upcoming year.
 
 READMORE
 

@@ -2,10 +2,9 @@
 author: Caleb Eby
 published: false
 title: Our Summer Robot
+summary: >
+  This summer, we want to build a robot with a turret to shoot.
 ---
-This summer, we want to build a robot with a turret to shoot.
-
-READMORE
 
 ## Objectives
 

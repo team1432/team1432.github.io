@@ -6,7 +6,7 @@
   cursor: pointer;
   display: inline-block;
   overflow: hidden;
-  @include user-select(none);
+  user-select: none;
   -webkit-tap-highlight-color: transparent;
   height: 36px;
   vertical-align: middle;
@@ -15,7 +15,7 @@
   outline: none!important;
   border-radius: 0.2em;
   min-width: 88px;
-  @include transition(all 350ms);
+  transition: all 350ms ease;
   @extend %button-text;
   @extend %button-shadow;
   &%flat {

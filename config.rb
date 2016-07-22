@@ -10,10 +10,11 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 activate :directory_indexes
-activate :automatic_image_sizes
-activate :automatic_alt_tags
+activate :minify_css
+activate :autoprefixer
 set :site_url, "https://team1432.github.io"
 #activate :gzip
+# activate :sprockets
 activate :syntax, :css_class => 'syntax-highlight', :line_numbers => false
 ::Rack::Mime::MIME_TYPES[''] = 'text/html'
 ::Rack::Mime::MIME_TYPES['.svg'] = 'image/svg+xml'
@@ -56,7 +57,10 @@ class CustomMarkdown < Redcarpet::Render::HTML
   end
   def custom_markdown(document, renderer)
     document.gsub!(/{{site\.baseurl}}\/source/, '')
-    document.gsub!(/^([\s\S]+)READMORE/) { "<p class='summary'>#{$1.to_s}</p>\nREADMORE\n"}
+    # document.gsub!(/^([\s\S]+)READMORE/) do
+    #   "<p class='summary'>#{$1.to_s}</p>\nREADMORE\n"
+    # end
+    document
   end
   include Rouge::Plugins::Redcarpet
 end
@@ -118,7 +122,7 @@ page "/feed.xml", layout: false
 
 # Reload the browser automatically whenever files change
 configure :development do
-  #activate :livereload
+  activate :livereload
 end
 
 # Methods defined in the helpers block are available in templates
@@ -151,7 +155,7 @@ helpers do
       "<div class='post'>
         <h2 class='title'>#{article.title}</h2>
       #{author_tags}
-        <p class='summary'>#{strip_tags article.summary}</p>
+        <p class='summary'>#{strip_tags article.data.summary}</p>
       #{link_to "Read more...", article, class: "flat button readmore"}
       </div>"
   end
@@ -162,11 +166,10 @@ data.authors.each do |author, data|
 end
 # Build-specific configuration
 configure :build do
-  activate :minify_css
   activate :minify_javascript
   activate :minify_html
   activate :asset_hash
-  activate :sprockets
-  activate :autoprefixer
+  activate :automatic_image_sizes
+  activate :automatic_alt_tags
 end
 

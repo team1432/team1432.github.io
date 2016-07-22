@@ -8,6 +8,10 @@ $color: $beaver-blue;
 @import "neat/neat";
 @import "sol/sol";
 
+%card %button {
+  box-shadow: none;
+}
+
 $phone: new-breakpoint(max-width 480px, $total-columns: 4);
 $tablet: new-breakpoint(min-width 480px max-width 840px, $total-columns: 8);
 $desktop: new-breakpoint(min-width 840px, $total-columns: 12);
@@ -56,6 +60,8 @@ body {
   background-color: $grey-100;
 }
 main {
+  position: relative;
+  top: 100px;
   margin-top: 20px;
 }
 a {
@@ -63,7 +69,11 @@ a {
 }
 header.page-header {
   @extend %header;
+  position: fixed;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
   background-color: $beaver-blue;
+  background: $beaver-blue;
   #header-logo {
     .text {
       @include media($phone) {
@@ -115,6 +125,9 @@ main {
 ///////// ARTICLE //////////
 pre > code{
   @extend %highlight;
+}
+.blog-page main {
+  max-width: 900px;
 }
 .blog-page article {
   .summary { 
@@ -185,8 +198,23 @@ pre > code{
 }
 /////// HOME //////////
 body.root {
+  header.page-header:not(.start) {
+    box-shadow: none;
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0) 0%,
+      rgba(0,0,0,0.7) 100%
+    );
+    nav > a {
+      &:active, &:hover, &:focus {
+        background-color: rgba(255,255,255,0.3);
+      }
+    }
+    // height: 150px;
+  }
   main {
     width: 100%;
+    top: 0;
     padding: 0;
     margin: 0;
   }
@@ -213,7 +241,7 @@ body.root {
     display: block;
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 60%;
     transform: translate(-50%, -50%);
     min-width: 600px;
     max-width: 100%; 
@@ -226,7 +254,7 @@ body.root {
     position: relative;
     overflow: hidden;
     max-width: 2448px;
-    height: calc(100vh - 100px);
+    height: 100vh;
     transition: transform 1s
   }
   img#robot-photo {
@@ -238,26 +266,4 @@ body.root {
     margin: 20px auto;
     display: block;
   }
-}
-
-
-/////////// DONE STARTUP ////////////////
-
-header, main, footer {
-  display: block;
-  //animation: fadein .2s;
-  //animation-fill-mode: forwards;  
-}
-#startup-logo {
-  animation: fadeout .5s;
-  animation-fill-mode: forwards;  
-}
-//@keyframes fadein {
-//  from { opacity: 0}
-//  to   { opacity: 1}
-//}
-@keyframes fadeout {
-  from { opacity: 1}
-  to   { opacity: 0;
-  visibility: hidden;}
 }

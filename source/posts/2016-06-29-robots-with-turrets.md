@@ -2,10 +2,9 @@
 author: Caleb Eby
 published: true
 title: Robots with Turrets
+summary: >
+  This is a curated list of robots with rotating turrets from the 2016 FIRST Stronghold Season. We are studying these robots for our summer turret robot.
 ---
-This is a curated list of robots with rotating turrets from the 2016 FIRST Stronghold Season. We are studying these robots for our summer turret robot.
-
-READMORE
 
 ## Dropshot by the [Cheesy Poofs](https://www.team254.com/)
 ![Dropshot](https://media.team254.com/2016/03/86bb0776-2016.jpg)

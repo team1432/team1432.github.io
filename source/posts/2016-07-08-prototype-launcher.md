@@ -2,9 +2,10 @@
 published: true
 title: Prototype Launcher
 author: Caleb Eby
+summary: >
+  What we are working on over the next week
 ---
 
-What we are working on over the next week
 
 READMORE
 

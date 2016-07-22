@@ -12,9 +12,9 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 gem "middleman"
 gem "middleman-blog"
 gem "slim"
-#gem "middleman-livereload"
+gem "middleman-livereload"
 gem 'redcarpet', '~> 3.3'
-gem "middleman-sprockets", github: "middleman/middleman-sprockets", branch: "master"
+#gem "middleman-sprockets", github: "middleman/middleman-sprockets", branch: "master"
 gem "middleman-syntax"
 gem "middleman-minify-html"
 gem 'middleman-autoprefixer'
@@ -25,3 +25,5 @@ gem "turbolinks", require: false
 
 # For feed.xml.builder
 gem "builder"
+
+gem 'sassc'
