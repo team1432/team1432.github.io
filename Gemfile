@@ -26,4 +26,6 @@ gem "turbolinks", require: false
 # For feed.xml.builder
 gem "builder"
 
-gem 'sassc'
+group "development" do
+  gem 'sassc'
+end
