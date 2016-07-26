@@ -31,5 +31,6 @@ prose:
             - name: 'Tech'
               value: 'Tech'
       - name: "summary"
-        element: 'textarea'
-        label: "Summary"
+        field:
+          element: 'textarea'
+          label: "Summary"
