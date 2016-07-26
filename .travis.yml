@@ -3,8 +3,6 @@ rvm:
   - 2.3.1
 cache:
   bundler: true
-before_install:
-  - gem install sassc
 script: bash deploy.sh
 addons:
   apt:
