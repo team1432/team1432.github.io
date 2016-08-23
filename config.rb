@@ -127,6 +127,20 @@ end
 
 # Methods defined in the helpers block are available in templates
 helpers do
+
+  def inline_css(path)
+    file = sitemap.find_resource_by_path("/stylesheets/" + path.to_s + ".css")
+    if file.nil?
+      file = sitemap.find_resource_by_path(path.to_s + ".css")
+    end
+    "<style>#{file.render}</style>"
+  end
+
+  def inline_js(path)
+    path = "/javascripts/" + path.to_s + ".js"
+    "<script>#{sitemap.find_resource_by_path(path).render}</script>"
+  end
+
   def authors_of(article)
     list = []
     if article.data.author?
@@ -166,7 +180,7 @@ data.authors.each do |author, data|
 end
 # Build-specific configuration
 configure :build do
-  activate :minify_javascript
+  activate :minify_javascript, inline: true
   activate :minify_html
   activate :asset_hash
   activate :automatic_image_sizes

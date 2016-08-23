@@ -1,5 +1,6 @@
 - content_for :scripts do
-  script async='true' src="/javascripts/application.js"
+  // script async='true' src="/javascripts/application.js"
+  = inline_js :application
 - content_for :styles do 
   = stylesheet_link_tag :page
 .carousel
