@@ -1,13 +1,7 @@
-controller = new ScrollMagic.Controller()
-
-scene = new ScrollMagic.Scene (
-  triggerHook: 0.8
-  triggerElement: 'main .card'
-  duration: 0
-)
-  .setClassToggle 'header.page-header', 'start'
-  .addTo controller
-
-scene.on("change update progress
- start end enter leave", console.log('hi'))
-# scene.removeClassToggle(false)
+nav = document.querySelectorAll('header.page-header')[0]
+window.onscroll = ->
+  if window.pageYOffset > 400
+    nav.classList.add 'start'
+  else
+    nav.classList.remove 'start'
+  return
