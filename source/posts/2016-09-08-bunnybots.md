@@ -4,7 +4,7 @@ published: true
 title: BunnyBots!
 summary: >-
   Bunnybots has begun! Find out about the 2016 BunnyBots competition,
-  'Round-a-BOUT'
+  "Round-a-BOUT"
 tags:
   - BunnyBots
 ---
@@ -14,7 +14,7 @@ tags:
 ![Octocat.png]({{site.baseurl}}/source/images/blog/bunnybots-2016-logo.png)
 
 ## 2016 Game
-The 2016 game, "Round-a-BOUT", was announced September 1st. In it, six robots, three per alliance, drive around a figure-eight track while shooting darts at each other, and loading stuffed bunnies into recycle bins.
+The 2016 game, "Round-a-BOUT", was announced September 1st. In it, six robots, three per alliance, drive around a figure-eight track while shooting Nerf darts at each other, and loading stuffed bunnies into recycle bins.
 
 ## What we're up to
 We are very busy coming up with ideas for this year's BunnyBot. We'll share more in a few weeks!
