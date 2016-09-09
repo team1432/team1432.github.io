@@ -9,7 +9,7 @@ summary: >
 READMORE
 
 ## About [GitHub](https://github.com)
-![Octocat.png]({{site.baseurl}}/source/images/blog/octocat.png)
+![Octocat]({{site.baseurl}}/source/images/blog/octocat.png)
 
 [GitHub](https://github.com) is free hosting for projects using [Git](https://git-scm.com/). Git is a source code manager which lets you go through the history of your project, and if you ever make a mistake, you can `diff` between two versions of files and see exactly what changed. It also lets multiple people collaborate on one project without overwriting each other's changes.
 
