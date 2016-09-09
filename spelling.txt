@@ -19,7 +19,8 @@ Tac
 Regolith
 GitHub
 other's
-Bunnybots
+BunnyBots
+BunnyBot
 stacker
 RobotPy
 wpilib
