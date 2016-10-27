@@ -50,7 +50,7 @@ That's it!
 
 6. Click **Commit**
 7. Go to **[Travis CI](https://travis-ci.org/team1432/team1432.github.io)**
-8. Wait until it goes **green** or **red**. If it goes green, it passed. If it goes red, it means there was an error. Scroll through the log to try to figure out what went wrong. It **will fail** if there are spelling errors.
+8. Wait until it goes <strong style="color:green">green</strong> or <strong style="color:red">red</strong>. If it goes green, it passed. If it goes red, it means there was an error. Scroll through the log to try to figure out what went wrong. It **will fail** if there are spelling errors.
 
 ## Publising a Post (Making it visible on <http://team1432.github.io/blog>)
 
@@ -75,5 +75,5 @@ That's it!
 
 7. Click **Commit**
 8. Go to **[Travis CI](https://travis-ci.org/team1432/team1432.github.io)**
-9. Wait until it goes **green** or **red**. If it goes green, it passed. If it goes red, it means there was an error. Scroll through the log to try to figure out what went wrong. It **will fail** if there are spelling errors. If you are *sure* that the word is spelled correctly, you can add it to the list on [Prose.io](http://prose.io/#team1432/team1432.github.io/edit/source/spelling.txt)
+9. Wait until it goes <strong style="color:green">green</strong> or <strong style="color:red">red</strong>. If it goes green, it passed. If it goes red, it means there was an error. Scroll through the log to try to figure out what went wrong. It **will fail** if there are spelling errors. If you are *sure* that the word is spelled correctly, you can add it to the list on [Prose.io](http://prose.io/#team1432/team1432.github.io/edit/source/spelling.txt)
 10. Tell me ([@calebeby](https://github.com/calebeby)) to proofread and publish it.
