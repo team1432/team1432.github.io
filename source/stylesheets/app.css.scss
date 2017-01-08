@@ -140,6 +140,16 @@ pre > code{
     max-width: 100%;
   }
 
+  iframe {
+    max-width: 100%;
+    display: block;
+    margin: 30px auto;
+
+    @media screen and (max-width: 500px) {
+      height: 50vw;
+    }
+  }
+
   time {
     margin-left: 10px;
     @extend %chip;
