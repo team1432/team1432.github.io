@@ -1,0 +1,1 @@
+(function(){var e;e=document.querySelectorAll("header.page-header")[0],window.onscroll=function(){window.pageYOffset>150?e.classList.add("start"):e.classList.remove("start")}}).call(this);

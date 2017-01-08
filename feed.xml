@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Team 1432</title>
+  <id>https://team1432.github.io</id>
+  <link href="https://team1432.github.io"/>
+  <link href="https://team1432.github.io/feed.xml" rel="self"/>
+  <updated>2017-01-07T08:00:00+00:00</updated>
+  <entry>
+    <title>Kickoff!</title>
+    <link rel="alternate" href="https://team1432.github.io/blog/kickoff"/>
+    <id>https://team1432.github.io/blog/kickoff</id>
+    <published>2017-01-07T08:00:00+00:00</published>
+    <updated>2017-01-08T05:43:30+00:00</updated>
+    <author>
+      <name>Caleb Eby</name>
+    </author>
+    <content type="html">&lt;p&gt;Early this morning we drove to University of Portland to find out what our game was for 2017.&lt;/p&gt;
+
+&lt;h2 id="predictions"&gt;Predictions&lt;/h2&gt;
+
+&lt;p&gt;Before kickoff, we knew that there was a steampunk theme because of the &lt;a href="https://www.youtube.com/watch?v=37GBEBLfhWA"&gt;teaser video&lt;/a&gt; After that, Alan and I scoured the internet for the most reasonable theories of the 2017 game, STEAMWORKS. The best we could find was from &lt;a href="https://www.chiefdelphi.com/forums/showthread.php?t=151433&amp;amp;page=7#post1607886"&gt;Cothron Theiss on CD&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="the-game"&gt;The Game&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EMiNmJW7enI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In summary, we have to score 10” gears on hooks and 5” balls in boilers. We are super excited for this new game and season. We plan on releasing weekly updates on how we are doing.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>FIRST Fare 2016</title>
+    <link rel="alternate" href="https://team1432.github.io/blog/first-fare-2016"/>
+    <id>https://team1432.github.io/blog/first-fare-2016</id>
+    <published>2016-10-23T07:00:00+00:00</published>
+    <updated>2017-01-08T05:43:30+00:00</updated>
+    <author>
+      <name>Alan Lohkamp</name>
+    </author>
+    <content type="html">&lt;h2 id="what-is-first-fare"&gt;What is FIRST Fare?&lt;/h2&gt;
+
+&lt;p&gt;FIRST Fare is the premier training resource for Pacific Northwest FRC participants. For 7 years FIRST Fare has provided an opportunity for rookie and veteran team members alike to learn about FRC practices&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/images/blog/man%20with%20speech.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;h2 id="what-did-we-do"&gt;What did we do?&lt;/h2&gt;
+
+&lt;p&gt;Each of us took four classes in different subjects such as CAD, manipulators, grant writing, awards, tools, &amp;amp; others. The screen saver used gave more strength to the idea that Steampunk will be next year&amp;#39;s theme. I have started looking at steampunk things like goggles.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://firstfare.gladstonerobotics.com/"&gt;Find out more at FIRST Fare&amp;#39;s website&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>BunnyBots!</title>
+    <link rel="alternate" href="https://team1432.github.io/blog/bunnybots"/>
+    <id>https://team1432.github.io/blog/bunnybots</id>
+    <published>2016-09-08T07:00:00+00:00</published>
+    <updated>2017-01-08T05:43:30+00:00</updated>
+    <author>
+      <name>Caleb Eby</name>
+    </author>
+    <content type="html">&lt;h2 id="the-competition"&gt;The Competition&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://team1540.org/bunnybots/"&gt;BunnyBots&lt;/a&gt; is an annual competition for FRC teams hosted by &lt;a href="http://team1540.org/"&gt;the Flaming Chickens&lt;/a&gt;, at &lt;a href="http://www.catlin.edu/"&gt;Catlin Gabel&lt;/a&gt;. The 12-week build season starts in September, and lasts until December. Like &lt;a href="http://www.firstinspires.org/robotics/frc"&gt;FRC&lt;/a&gt;, the game changes every year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/images/blog/bunnybots-2016-logo.png" alt="BunnyBots Logo"&gt;&lt;/p&gt;
+
+&lt;h2 id="2016-game"&gt;2016 Game&lt;/h2&gt;
+
+&lt;p&gt;The 2016 game, &lt;q&gt;Round-a-BOUT&lt;/q&gt;, was announced September 1st. In it, six robots, three per alliance, drive around a figure-eight track while shooting Nerf darts at each other, and loading stuffed bunnies into recycle bins.&lt;/p&gt;
+
+&lt;h2 id="what-we-39-re-up-to"&gt;What we&amp;#39;re up to&lt;/h2&gt;
+
+&lt;p&gt;We are very busy coming up with ideas for this year&amp;#39;s BunnyBot. We&amp;#39;ll share more in a few weeks!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>RobotPy</title>
+    <link rel="alternate" href="https://team1432.github.io/blog/robotpy"/>
+    <id>https://team1432.github.io/blog/robotpy</id>
+    <published>2016-07-25T07:00:00+00:00</published>
+    <updated>2017-01-08T05:43:30+00:00</updated>
+    <author>
+      <name>Caleb Eby</name>
+    </author>
+    <content type="html">&lt;h2 id="robotpy"&gt;RobotPy?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://robotpy.github.io/"&gt;RobotPy&lt;/a&gt; lets FRC teams use Python for their robot code.&lt;/p&gt;
+
+&lt;h2 id="why"&gt;Why?&lt;/h2&gt;
+
+&lt;p&gt;Previously, we had been using Java, but I prefer Python, so we decided try it out. RobotPy is supported by the FRC community, and it is very actively maintained. Its &lt;a href="http://robotpy.readthedocs.io/"&gt;documentation&lt;/a&gt; is very good, and is more detailed than the &lt;a href="http://first.wpi.edu/FRC/roborio/release/docs/java/"&gt;WPILib Java documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="wpilib"&gt;WPILib?&lt;/h2&gt;
+
+&lt;p&gt;WPILib is the programming framework for FRC teams, for Java, C++, and LabView. It makes it easy for teams to implement motors, joysticks, sensors, and much more. RobotPy has &lt;a href="http://robotpy.readthedocs.io/en/latest/wpilib.html"&gt;an implementation of WPILib&lt;/a&gt;, almost identical to the official Java version, only for Python.&lt;/p&gt;
+
+&lt;h2 id="problems"&gt;Problems&lt;/h2&gt;
+
+&lt;p&gt;Although switching to Python is appealing, there are downsides. When we are at competition and when something breaks, there will probably not be anyone able to help, because there are only ~15 teams using RobotPy. However, &lt;a href="https://github.com/orgs/robotpy/people"&gt;the developers&lt;/a&gt; are usually very quick to respond to problems.&lt;/p&gt;
+
+&lt;h2 id="when"&gt;When?&lt;/h2&gt;
+
+&lt;p&gt;We began putting this into use in the past week, and I just finished programming the &lt;a href="/blog/prototype-launcher"&gt;prototype launcher&lt;/a&gt; with RobotPy, and the &lt;a href="https://github.com/team1432/Prototype-Launcher"&gt;source is available on GitHub&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How We Use GitHub</title>
+    <link rel="alternate" href="https://team1432.github.io/blog/how-we-use-github"/>
+    <id>https://team1432.github.io/blog/how-we-use-github</id>
+    <published>2016-07-14T07:00:00+00:00</published>
+    <updated>2017-01-08T05:43:30+00:00</updated>
+    <author>
+      <name>Caleb Eby</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="about-github"&gt;About &lt;a href="https://github.com"&gt;GitHub&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="/images/blog/octocat.png" alt="Octocat"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com"&gt;GitHub&lt;/a&gt; is free hosting for projects using &lt;a href="https://git-scm.com/"&gt;Git&lt;/a&gt;. Git is a source code manager which lets you go through the history of your project, and if you ever make a mistake, you can &lt;code&gt;diff&lt;/code&gt; between two versions of files and see exactly what changed. It also lets multiple people collaborate on one project without overwriting each other&amp;#39;s changes.&lt;/p&gt;
+
+&lt;p&gt;GitHub is free for &lt;a href="https://opensource.com/resources/what-open-source"&gt;open source&lt;/a&gt; projects, which is how we use it.&lt;/p&gt;
+
+&lt;h2 id="open-source"&gt;Open Source&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/team1432/FRC-2016"&gt;Anyone can view our robot code online&lt;/a&gt;, even without an account. We chose open source because we want people to be able to contribute to and learn from our code.&lt;/p&gt;
+
+&lt;h2 id="branches"&gt;Branches&lt;/h2&gt;
+
+&lt;p&gt;In Git, branches are copies of the code, each with some changes from the &lt;code&gt;master&lt;/code&gt; branch. Branches are often created for new features, and once the feature is complete, the feature branch is merged with the &lt;code&gt;master&lt;/code&gt; branch. Although we haven&amp;#39;t used branches for the 2016 robot code, we hope to use them more next year because it reduces the likelihood of something breaking. Branches are very useful with larger groups, because that way people can be working on different features without messing up each other&amp;#39;s code.&lt;/p&gt;
+
+&lt;h2 id="our-code"&gt;Our Code&lt;/h2&gt;
+
+&lt;p&gt;You can see our 2016 FRC Code &lt;a href="https://github.com/team1432/FRC-2016/tree/master/src/org/usfirst/frc/team1432/robot"&gt;here&lt;/a&gt;. Our 2015 Bunnybots code &lt;a href="https://github.com/team1432/bunnybots-2015"&gt;is available on GitHub&lt;/a&gt;, too.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Prototype Launcher</title>
+    <link rel="alternate" href="https://team1432.github.io/blog/prototype-launcher"/>
+    <id>https://team1432.github.io/blog/prototype-launcher</id>
+    <published>2016-07-08T07:00:00+00:00</published>
+    <updated>2017-01-08T05:43:30+00:00</updated>
+    <author>
+      <name>Caleb Eby</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;We have been working on a prototype launcher to test how changing the speed of upper and lower launcher wheels affects the launch angle of the ball&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/images/blog/launcher.png" alt="Launcher"&gt;&lt;/p&gt;
+
+&lt;p&gt;Ideally, the change in launch wheel speed will change the ball angle enough so that we don&amp;#39;t have to rotate the launcher mechanism vertically to change the launch angle significantly. By not needing a mechanism to rotate the shooter vertically, we can save space on future robots.&lt;/p&gt;
+
+&lt;p&gt;This is our first project we designed using &lt;a href="http://www.autodesk.com/products/inventor/overview"&gt;Autodesk Inventor&lt;/a&gt;. In the future, we hope to model all of our robots in CAD. We have been able to CAD at the rate it is being built.&lt;/p&gt;
+
+&lt;p&gt;Once we get the launcher working, we will post what we found about the projectile angle.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Robots with Turrets</title>
+    <link rel="alternate" href="https://team1432.github.io/blog/robots-with-turrets"/>
+    <id>https://team1432.github.io/blog/robots-with-turrets</id>
+    <published>2016-06-29T07:00:00+00:00</published>
+    <updated>2017-01-08T05:43:30+00:00</updated>
+    <author>
+      <name>Caleb Eby</name>
+    </author>
+    <content type="html">&lt;h2 id="dropshot-by-the-cheesy-poofs"&gt;Dropshot by the &lt;a href="https://www.team254.com/"&gt;Cheesy Poofs&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://media.team254.com/2016/03/86bb0776-2016.jpg" alt="Dropshot"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.chiefdelphi.com/forums/showthread.php?p=1553795"&gt;Chief Delphi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EguhIdvBDMA"&gt;YouTube release video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.team254.com/first/2016/"&gt;Website with brief technical details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://media.team254.com/2016/05/97d107e6-technicalBinder2016.pdf"&gt;Technical Binder with super-detailed information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/254/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="nautalis-by-the-badgerbots"&gt;Nautalis by the &lt;a href="http://www.badgerbots.org/"&gt;BadgerBOTS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://i.picresize.com/images/2016/05/13/4cJU.jpg" alt="Nautalis"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.chiefdelphi.com/forums/showthread.php?p=1550594"&gt;Chief Delphi with technical details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/1306/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="invader-by-team-thrust"&gt;Invader by &lt;a href="http://huntingtonrobotics.org/"&gt;Team THRUST&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://www.chiefdelphi.com/media/img/829/82907429b405d9c889f149cd69144231_m.jpg" alt="Invader"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/1501/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ahPHh8D42fc"&gt;YouTube Release Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.chiefdelphi.com/media/photos/43187"&gt;Chief Delphi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="nazare-by-code-orange"&gt;Nazare by &lt;a href="http://teamcodeorange.com/"&gt;Code Orange&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://i.imgur.com/q8lghR5h.jpg" alt="Nazare"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.thebluealliance.com/team/3476"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=_a5nIKnUZNc"&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.chiefdelphi.com/forums/showthread.php?t=145492"&gt;Chief Delphi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="black-mamba-by-theory6"&gt;Black Mamba by &lt;a href="http://www.theory6.ca/"&gt;THEORY6&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://c2.staticflickr.com/2/1625/25149047382_e90d0db35c_b.jpg" alt="Black Mamba"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.chiefdelphi.com/forums/showthread.php?threadid=144790&amp;amp;langid=2"&gt;Chief Delphi with technical details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/1241"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="swampthing-by-children-of-the-swamp"&gt;SWAMPTHING by &lt;a href="http://www.179swampthing.org/"&gt;Children of the Swamp&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://www.chiefdelphi.com/media/img/448/4485691f1878508232fdb41a1a6e3d02_m.jpg" alt="SWAMPTHING"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/179"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=cvHnjYLO-HI"&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="fang-by-barker-redbacks"&gt;Fang by &lt;a href="http://www.team4613.org/"&gt;Barker Redbacks&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://www.chiefdelphi.com/media/img/0a1/0a1598d964f8e942a2f1b4cadbab4eee_m.jpg" alt="Fang"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://vimeo.com/156129484"&gt;Vimeo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.chiefdelphi.com/forums/showthread.php?t=145796"&gt;Chief Delphi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/4613"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reddit.com/r/FRC/comments/46ugat/4613_barker_redbacks_robot_reveal_2016_frc/"&gt;Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="ilite-x-by-ilite-robotics"&gt;ILITE &lt;q&gt;X&lt;/q&gt; by &lt;a href="http://www.ilite.us/"&gt;ILITE ROBOTICS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://www.chiefdelphi.com/media/img/539/539e836518ef2875d1c95d4498497776_m.jpg" alt="ILITE &amp;quot;X&amp;quot;"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.chiefdelphi.com/forums/showthread.php?t=145411"&gt;Chief Delphi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/1885/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="maelstrom-by-the-body-electric"&gt;Maelstrom by &lt;a href="http://team1389.com/"&gt;The Body Electric&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://www.chiefdelphi.com/media/img/96c/96cd600c5286e862acac73d3b8a3b6b4_l.jpg" alt="Maelstrom"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/1389/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.chiefdelphi.com/forums/showthread.php?t=142805"&gt;Chief Delphi Discussion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ihBd2lH16Ck"&gt;YouTube Release Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="sasha-the-concolor-ft-banshee-by-the-beak-sqaud"&gt;Sasha the Concolor (ft. Banshee) by &lt;a href="http://frc4028.com/"&gt;The Beak Sqaud&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://i.imgur.com/SHY5Acoh.jpg" alt="Sasha the Concolor (ft. Banshee)"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.beaksquad.org/newsite/our-robot/2016-2/"&gt;Information on their Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/4028/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=BpUqCr3rDHo"&gt;YouTube Release Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="knight-by-the-zebracorns"&gt;Knight by &lt;a href="http://team900.org/"&gt;♞The Zebracorns♞&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://i.imgur.com/R7UQ9Rmh.jpg" alt="Knight"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/900/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=MH_oBHxuucw"&gt;YouTube Release Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="minotaur-by-the-tornadoes"&gt;Minotaur by the &lt;a href="http://sites.google.com/site/lestornades3386/"&gt;Tornadoes&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/YOgaKJh.png" alt="Minotaur"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/3386/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=sEZKnE1kZTU"&gt;YouTube Release Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="lion-robotics-6-by-lion-robotics"&gt;Lion Robotics 6 by &lt;a href="http://www.lionrobotics.org/"&gt;Lion Robotics&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://i.imgur.com/acPWMe8h.jpg" alt="Lion Robotics 6"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/2907/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="unnamed-by-tan-x"&gt;[UNNAMED] by &lt;a href="http://www.tanxrobotics.com/"&gt;TAN(X)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://i.imgur.com/N5HjeUT.jpg" alt="UNNAMED"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/3003/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="grover-by-the-all-sparks"&gt;Grover by &lt;a href="http://www.jesuitcp.org/robotics"&gt;The All Sparks&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://i.imgur.com/FDhs2RMh.jpg" alt="Grover"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=1zc0ji3iSJA"&gt;YouTube Release Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thebluealliance.com/team/3003/2016"&gt;The Blue Alliance Scoring Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+</feed>
