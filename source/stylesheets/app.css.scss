@@ -12,7 +12,7 @@ $color: $beaver-blue;
   box-shadow: none;
 }
 
-$small: new-breakpoint(max-width 600px, $total-columns: 8);
+$small: new-breakpoint(max-width 650px, $total-columns: 8);
 $phone: new-breakpoint(max-width 480px, $total-columns: 4);
 $tablet: new-breakpoint(min-width 480px max-width 840px, $total-columns: 8);
 $desktop: new-breakpoint(min-width 840px, $total-columns: 12);
